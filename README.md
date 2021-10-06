@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash01Negi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
