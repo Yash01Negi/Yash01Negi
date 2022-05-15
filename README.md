@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Negi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development and Tkinter
+- 👀 I’m interested in Software Development, Machine Learning & Data Science
+- 🌱 I’m currently learning OpenCv
 - 📫 My contact details are - yash01negi@gmail.com
 
 <!---
