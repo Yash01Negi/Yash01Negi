@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer & Data Scientist based in Japan 🇯🇵
 
-I build **production-ready AI systems** — from machine learning and computer vision to LLM-powered applications and cloud infrastructure.
+I build **production-ready AI systems**, from machine learning and computer vision to LLM-powered applications and cloud infrastructure.
 
 My work focuses on turning AI/ML ideas into practical systems: designing data pipelines, building models, developing APIs and interfaces, and deploying applications to the cloud.
 
